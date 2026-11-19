@@ -1,6 +1,6 @@
 ## Ex. No: 4  VLAN Configuration Using a Managed Switch
 # Date: 26-10-2026
-# NAME : YAZHINI R R
+# NAME : PAVITHIRA  V
 ________________________________________
 # Objective
 To configure Virtual Local Area Networks (VLANs) on a managed switch and verify that hosts within the same VLAN can communicate while others cannot.
